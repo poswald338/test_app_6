@@ -17,6 +17,8 @@ Things you may want to cover:
 
 * How to run the test suite
 
+* First test repo by Patrick Oswald!
+
 * Services (job queues, cache servers, search engines, etc.)
 
 * Deployment instructions
